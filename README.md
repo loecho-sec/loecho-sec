@@ -12,4 +12,4 @@
 
 - 📫 E-mail: loecho@foxmail.com
 
-- [![GitHub](https://img.shields.io/github/followers/loecho-sec?label=follower%20github&style=flat-square)]
+- ![GitHub](https://img.shields.io/github/followers/loecho-sec?label=follower%20github&style=flat-square)
