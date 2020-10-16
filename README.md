@@ -2,9 +2,9 @@
 **loecho-sec/loecho-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hello EveryOne 👋
+### whoami 👋
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=loecho-sec&show_icons=true&theme=white" width="400">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=loecho-sec&count_private=true&show_icons=true&hide=prs" />
 
 - 🌱 Dream: Red Team@loecho /CTFer@Web
 - 👀 Blog： https://loecho.me
