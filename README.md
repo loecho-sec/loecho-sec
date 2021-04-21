@@ -6,8 +6,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=loecho-sec&count_private=true&show_icons=true&hide=prs" />
 
-- 🌱 Work: TopSec-loecho
-
 - 👀 Blog： https://loecho.me
 
 - 📫 E-mail: loecho@foxmail.com
