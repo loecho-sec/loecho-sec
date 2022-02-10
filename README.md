@@ -6,7 +6,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=loecho-sec&count_private=true&show_icons=true&hide=prs" />
 
-- 👀 Blog： https://loecho.me
+- 👀 Blog： https://1oecho.github.io/
 
 - 📫 E-mail: loecho@yeah.net
 
