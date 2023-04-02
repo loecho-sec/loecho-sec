@@ -10,5 +10,5 @@
 
 - 📫 E-mail: loecho@yeah.net
 
-- ♥ 放平心态，杜绝眼高手低，空杯心态！
+- ♥ 持续学习，杜绝眼高手低，空杯心态！
 - ![GitHub](https://img.shields.io/github/followers/loecho-sec?label=follower%20github&style=flat-square)
